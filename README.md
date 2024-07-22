@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ayoola Olaoye</h1>
 <h3 align="center">A Smart Contract developer and researcher.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eminivince" alt="eminivince" /></a> </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=eminivince&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 - 👯 I’m looking to collaborate on **any innovative Blockchain project**
 
